@@ -18,7 +18,7 @@ This project has been made with C++ and compiled with MS Visual C++ Compiler. Th
 1. Click _Code_ button in my repository and copy the link.
 ![1](https://i.imgur.com/UB8QXjZ.png)
 2. Open up Visual Studio and click _Clone a repository_.
-![2](https://i.imgur.com/GJRMNPJ.png)
+![2](https://i.imgur.com/wqE8lfT.png)
 3. Input the link that you've copied and setup path for storing the project.
 ![3](https://i.imgur.com/vKBpksT.png)
 4. Click _Clone_.
