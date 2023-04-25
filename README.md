@@ -24,4 +24,4 @@ This project has been made with C++ and compiled with MS Visual C++ Compiler. Th
 4. Click _Clone_.
 5. When Visual Studio is done, you can simply delete _main.cpp_.
 
-### THIS IS AN OLD PROJECT, THAT'S WHY IT DOESN'T HAVE MANY COMMITS!
+### THIS IS AN OLD PROJECT (spring 2021), THAT'S WHY IT DOESN'T HAVE MANY COMMITS!
