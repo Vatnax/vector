@@ -16,9 +16,12 @@ This project has been made with C++ and compiled with MS Visual C++ Compiler. Th
 ### Installation
 
 1. Click _Code_ button in my repository and copy the link.
-![1](https://imgur.com/a/SJIJiex)
-2. Open up Visual Studio and click Clone Repository.
+![1](https://i.imgur.com/UB8QXjZ.png)
+2. Open up Visual Studio and click _Clone a repository_.
+![2](https://i.imgur.com/GJRMNPJ.png)
 3. Input the link that you've copied and setup path for storing the project.
-4. Click Clone.
+![3](https://i.imgur.com/vKBpksT.png)
+4. Click _Clone_.
+5. When Visual Studio is done, you can simply delete _main.cpp_.
 
 ### THIS IS AN OLD PROJECT, THAT'S WHY IT DOESN'T HAVE MANY COMMITS!
