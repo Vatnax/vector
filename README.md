@@ -24,4 +24,7 @@ This project has been made with C++ and compiled with MS Visual C++ Compiler. Th
 4. Click _Clone_.
 5. When Visual Studio is done, you can simply delete _main.cpp_.
 
+### TODOs, bugs, etc.
+* Throw exceptions instead of calling _exit_if_. Maybe more like _throw_if_?
+
 ### THIS IS AN OLD PROJECT (spring 2021), THAT'S WHY IT DOESN'T HAVE MANY COMMITS!
